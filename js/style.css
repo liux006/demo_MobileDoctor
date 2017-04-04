@@ -31,7 +31,7 @@
  .refresh>p{position: absolute;height:16px;line-height:16px;font-size: 13px;font-weight: 300;left:180px;color:#444;}
  
 /*手机背景样式 ↓↓↓ */
- .phone{width:435px;height:888px;background: url(../img/phone2.png) no-repeat;position: absolute;}
+ .phone{width:435px;height:888px;background: url(../img/phone2.png) no-repeat;position: absolute;left:5px;top:5px;}
  .statusBar{width:375px;height:20px;background: url(../img/statusBar.png) no-repeat;position: absolute;top:109px;left:30px;}
 
 /*框架样式 ↓↓↓ */
